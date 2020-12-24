@@ -1,6 +1,6 @@
 ---
 title: Bindings, Syntax, Type-Checking and Evaulation Rules in SML
-date: 2020-12-26 01:29:29 +/-TTTT
+date: 2020-12-25 01:29:29 +/-TTTT
 categories: [Programming Languages, Section 1]
 tags: [pl part a]     
 ---
@@ -11,7 +11,7 @@ An ML program is a sequence of bindings. Each bindings gets type-checked and the
 
 Let's consider variable binding now:
 
-    val x = e 
+`val x = e` 
 
 Here, val is a *keyword*, x can be any *variable*, and e can be any *expression*. This could be a simple ML program. A __value__ is an expression that "has no more computation to do".  
 
