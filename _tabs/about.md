@@ -20,7 +20,8 @@ _Studying at Beykoz University as a 4th year student, taking online Computer Sci
 * Turkey &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          090 535 976 2646
 
 <br/>
-Experience
+
+## _Experience_
 
 
 **Volunteer R&D Personnel (01.2020-05.2020)**
@@ -34,7 +35,8 @@ Experience
 Game design and development focused website.
 
 <br/>
-_Education_ 
+
+## _Education_ 
 
 
 2019-2021 (expected)
@@ -44,28 +46,29 @@ _Education_
 2017-2021 (expected)
 :   **Bachelor, Digital Game Design**; Beykoz University (Istanbul)
 
-> *2.94*
+> *GPA: 2.94*
 
 2019-2019 
 :   **Erasmus, Computer Graphics**; University of Information Technology and Management (Rzeszow / Poland)
 
 > *6 months, Erasmus Exchange Program*
 
-2007-2010
+2013-2017
 :   **Ali Akkanat Anadolu Lisesi**; 
     Istanbul (Sariyer)
 
->*Minor: Stem*
+>*Minor: STEM*
 
 <br/>
-_Skills_
+
+## _Skills_
 
 
 | Language           | Programming Languages | Middleware Experience     | Software|
 | :---               |    :----:             |          :----:           | ---:              |
 | English - Advanced | Standart ML           | Unity Engine              | Emacs             |
 | Turkish - Native   | Racket Language       | Android Studio            | Visual Studio Code|
-|                    | C#                    |                           | Visual Studio     |
+|                    | C#  , Java                  |                           | Visual Studio     |
 
 
 Potpourri
