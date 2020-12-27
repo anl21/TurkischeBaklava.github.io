@@ -54,7 +54,6 @@ fun get_all_even_snd xs = filter ((fn (_,v) => v mod 2 = 0), xs)
 ```ml
 (* Type of fold: ('a * 'b -> 'a) * 'a * 'b list -> 'a *)
 
-
 fun fold (f,acc,xs) =
 	case xs of
 	[] => acc
